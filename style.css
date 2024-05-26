@@ -1,0 +1,36 @@
+*{
+  padding:0;
+  margin:0;
+  background-color: #ffff;
+}
+.pp img{
+  border-radius:50%;
+  height:40px;
+  object-fit: cover;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+.head{
+  display:flex;
+  margin-top:10px;
+  
+}
+.text h2{
+  padding:7px
+  
+}
+.searchbox input{
+   margin-top: 10px;
+  height:auto;
+  
+}
+.bell img{
+  height:30px
+}
+.content img{
+  height:200px;
+  width:400px
+}
